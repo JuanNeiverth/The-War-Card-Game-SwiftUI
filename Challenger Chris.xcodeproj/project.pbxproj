@@ -11,6 +11,7 @@
 		0D94E94829F049800051DA24 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D94E94729F049800051DA24 /* ContentView.swift */; };
 		0D94E94A29F049850051DA24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D94E94929F049850051DA24 /* Assets.xcassets */; };
 		0D94E94D29F049850051DA24 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D94E94C29F049850051DA24 /* Preview Assets.xcassets */; };
+		0D94E95429F056F70051DA24 /* The War Card Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D94E95329F056F70051DA24 /* The War Card Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0D94E94729F049800051DA24 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0D94E94929F049850051DA24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0D94E94C29F049850051DA24 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0D94E95329F056F70051DA24 /* The War Card Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "The War Card Game.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0D94E94529F049800051DA24 /* Challenger_ChrisApp.swift */,
 				0D94E94729F049800051DA24 /* ContentView.swift */,
+				0D94E95329F056F70051DA24 /* The War Card Game.swift */,
 				0D94E94929F049850051DA24 /* Assets.xcassets */,
 				0D94E94B29F049850051DA24 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				0D94E94829F049800051DA24 /* ContentView.swift in Sources */,
 				0D94E94629F049800051DA24 /* Challenger_ChrisApp.swift in Sources */,
+				0D94E95429F056F70051DA24 /* The War Card Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
